@@ -1,0 +1,13 @@
+name: "Devops Tools"
+description: "A set of utilities for devops guys"
+author: "bonaccorsop"
+branding:
+  icon: "book-open"
+  color: "blue"
+# inputs:
+#   file:
+#     description: "The shell script to run"
+#     required: true
+runs:
+  using: "docker"
+  image: "Dockerfile"
