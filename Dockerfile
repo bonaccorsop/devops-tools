@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
 LABEL authors="Pietro Bonaccorso <bonaccorso.p@gmail.com>"
-LABEL version="0.1.0"
+LABEL version="0.1.1"
 LABEL repository="https://github.com/bonaccorsop/devops-tools"
 LABEL homepage="https://github.com/bonaccorsop/devops-tools"
 
