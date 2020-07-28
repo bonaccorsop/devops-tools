@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: bonaccorsop/devops-tools@master
+      # - uses: bonaccorsop/devops-tools@master
 
       - name: Test
         run: |
