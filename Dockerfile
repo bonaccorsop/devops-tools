@@ -11,3 +11,4 @@ LABEL com.github.actions.icon="book-open"
 LABEL com.github.actions.color="blue"
 
 RUN apt update && apt install -y jq
+
